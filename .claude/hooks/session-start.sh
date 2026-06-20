@@ -1,0 +1,1 @@
+#!/bin/bash# SessionStart hook — injecte un rappel de contexte au démarrage de la session.TODAY=$(date +%Y-%m-%d)cat <<EOF{"additionalContext": "RAPPEL PROTOCOLE CERVEAU : avant de répondre à la première demande, lis BRAIN.md (règles actives) et tasks.md (voir CLAUDE.md pour le protocole complet). Date du jour : ${TODAY}."}EOFexit 0
