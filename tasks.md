@@ -1,0 +1,1 @@
+#tasks> Tâches en cours ou mentionnées pour plus tard. Mis à jour à chaque session.## En cours<!-- Ce sur quoi on travaille activement -->-## À faire (mentionné mais pas commencé)<!-- Format : [AAAA-MM-JJ] Tâche — contexte en 1 ligne si nécessaire -->-## Terminé récemment<!-- Garder seulement les 5-10 dernières, supprimer le reste -->-
