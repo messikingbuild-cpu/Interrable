@@ -1,0 +1,1 @@
+# Sessions> Résumé court de chaque session, 3-5 lignes max. Le plus récent en haut.> Pas un journal détaillé — juste assez pour se rappeler où on en était.<!-- Claude ajoute une nouvelle entrée ici, en haut, à chaque fin de session.Format :## AAAA-MM-JJ- Fait : ...- Décision : ...- État final : ...-->
